@@ -1,0 +1,14 @@
+/* 
+    Document   : styles.css
+    Created on : 17.02.2013, 22:09:27
+    Author     : Alexej
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+div{
+    font-size:120pt;
+}
