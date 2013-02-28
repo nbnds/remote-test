@@ -1,2 +1,2 @@
- true linuxoid
+ false linuxoid
 self destruction
